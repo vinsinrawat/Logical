@@ -25,7 +25,6 @@ public class Anagram {
 		// sort character array
 		Arrays.sort(ch1);
 		Arrays.sort(ch2);
-		;
 
 		// compare sorted character array
 		flag = Arrays.equals(ch1, ch2);
